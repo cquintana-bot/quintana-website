@@ -1,0 +1,51 @@
+body {
+	background-color: #ffffff;
+	color: black;
+	font-family:'Roboto Condensed', sans-serif;
+}
+
+main {
+	margin: 80px 20px 20px 20px;
+}
+
+.frontpage {
+	text-align: center;
+	font-family:'Roboto Condensed', sans-serif;
+	font-size: 18px;
+}
+
+.navigation {
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-family:'Roboto Condensed', sans-serif;
+	font-size: 18px;
+}
+
+h2 {
+	font-family:'Arimo', sans-serif;
+	padding-left: 0.25%;
+	font-size: 20px;
+}
+
+.summary {
+	padding-left: 10px;
+}
+
+.education{
+  padding-left: 10px;
+  background-color:#ffffff;
+  width: 1165px;
+}
+
+.experience {
+  background-color:#ffffff;
+  width: 1165px;
+}
+.skills {
+	background-color: #ffffff ;
+	width: 1165px;
+	
+}
+
+
